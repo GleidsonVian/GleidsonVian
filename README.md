@@ -7,11 +7,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCLemos&langs_count=12&layout=compact&theme=tokyonight" align="right">
   
- # Ola sou Gleidson Viana da Cruz!
-
-
-Eu tenho 22 anos de idade e sou de Vila Velha/ES, I'm studying Analysis and systems development at [UVV](https://uvv.br). 
-##
 # Ola sou Gleidson Viana da Cruz!
 
 
