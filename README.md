@@ -10,8 +10,11 @@
 # Ola sou Gleidson Viana da Cruz!
 
 
-Tenho 22 anos, moro em Vila Velha/ES, estou cursando Análise e desenvolvimento de sistemas na [UVV](https://uvv.br).
+Atualmente cursando faculdade de Analise e Desenvolvimento de Sistemas na UVV, atualmente estou aprofundando meus estudos em Python e Automatizações de tarefas RPA
+Sou uma pessoa bastante bastante organizada. Gosto de rotinas e sou ótimo em trabalhar com pessoas.
+Busco oportunidades de estágio para aprender o máximo possível e mostrar meu valor. Tenho facilidade em aprender e bastante força de vontade.
 
+E-mail pra contato => gleidson.social@outlook.com
 ### > Languagues and Tools (Learning)
 
 <div style="display: inline_block"><br>
