@@ -1,6 +1,4 @@
-- Olá eu sou o Gleidson Viana, sou um desenvolvedor RPA!
-- 👀 Atualmente procuro uma vaga de emprego na área de desenvolvimento de sistemas
-- 🌱  Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas.
+## Olá eu sou o Gleidson Viana, sou um desenvolvedor RPA!
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCLemos&langs_count=12&layout=compact&theme=tokyonight" align="right">
 
