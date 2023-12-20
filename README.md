@@ -9,7 +9,7 @@
 
 
 Atualmente cursando faculdade de Analise e Desenvolvimento de Sistemas na UVV, atualmente estou aprofundando meus estudos em Python e Automatizações de tarefas RPA
-Sou uma pessoa bastante bastante organizada. Gosto de rotinas e sou ótimo em trabalhar com pessoas.
+Sou uma pessoa bastante bastante organizada. Aprendendo sobre o mundo fascinante da tecnologia a cada dia sou ótimo em trabalhar com pessoas e equipes.
 Busco oportunidades de estágio para aprender o máximo possível e mostrar meu valor. Tenho facilidade em aprender e bastante força de vontade.
 
 <div style="display: inline_block"><br>
