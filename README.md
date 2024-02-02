@@ -8,9 +8,11 @@
 <div style="display: inline_block"><br>
 
 
-Atualmente cursando faculdade de Analise e Desenvolvimento de Sistemas na UVV, atualmente estou aprofundando meus estudos em Python e Automatizações de tarefas RPA
-Sou uma pessoa bastante bastante organizada. Aprendendo sobre o mundo fascinante da tecnologia a cada dia sou ótimo em trabalhar com pessoas e equipes.
-Busco oportunidades de estágio para aprender o máximo possível e mostrar meu valor. Tenho facilidade em aprender e bastante força de vontade.
+Atualmente cursando graduação em Análise e Desenvolvimento de Sistemas, estou focado em me aprofundar nas principais plataformas de Automação Robótica de Processos (RPA), como Automation Anywhere e Python. Busco desenvolver habilidades práticas para criar soluções eficientes nessa área.
+
+Com uma base sólida em cursos extracurriculares, estou determinado a aplicar meu conhecimento teórico em projetos de RPA, contribuindo para a automação de processos e aprimorando a eficiência operacional das empresas. Minha paixão por desafios tecnológicos e minha busca por inovação me motivam a explorar novas oportunidades na área de RPA.
+
+Meu objetivo é contribuir com empresas e organizações na automação de processos, melhorando a eficiência operacional e liberando recursos para atividades estratégicas. Estou dedicado a aprender e crescer nesta área em constante evolução, sempre aberto a novas oportunidades de aprendizado e a desafios que me permitam desenvolver habilidades valiosas em RPA.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gleidson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
