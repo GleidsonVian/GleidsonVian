@@ -1,11 +1,10 @@
 ## Olá eu sou o Gleidson Viana, sou um desenvolvedor RPA!
 
-  <div align="center">
-  <a href="https://github.com/GleidsonVian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GleidsonVian&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleidsonVian&layout=compact&langs_count=7&theme=material-palenight"/>
-</div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 
 Atualmente cursando graduação em Análise e Desenvolvimento de Sistemas, estou focado em me aprofundar nas principais plataformas de Automação Robótica de Processos (RPA), como Automation Anywhere e Python. Busco desenvolver habilidades práticas para criar soluções eficientes nessa área.
