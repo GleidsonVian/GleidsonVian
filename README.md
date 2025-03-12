@@ -28,31 +28,11 @@
 
 ###
 
-<p align="left">👋 Olá, sou Daniel Marculano!<br><br>🎓 Estudante do 8º período de Ciência da Computação<br><br>💻 Desenvolvedor Front-End focado em React, Tailwind CSS, TypeScript e Desenvolvimento Web<br><br>🚀 Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades e compartilhar minha jornada no mundo do desenvolvimento.</p>
+<p align="left">👋 Olá, sou Gleidson Viana!<br><br>💻 Desenvolvedor RPA focado em Python, C#, Automation Anywhere e Power Apps<br><br>🚀 Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades e compartilhar minha jornada no mundo do desenvolvimento.</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas:</h3>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
 
 ###
 
